@@ -4,12 +4,6 @@
       "title": "My Stream",
       "description": "A great stream",
       "id": 1
-    },
-    {
-      "title": "Me streaming component reuse",
-      "description": "Watch me refactor components",
-      "userId": "112397682914409975611",
-      "id": 4
     }
   ]
 }

@@ -1,9 +1,15 @@
 {
   "streams": [
     {
-      "title": "My Stream",
+      "title": "Show-Off Stream",
       "description": "A great stream",
+      "userId": "112397682914409975611",
       "id": 1
+    },
+    {
+      "title": "Not My Stream",
+      "description": "Best Stream",
+      "id": 2
     }
   ]
 }
